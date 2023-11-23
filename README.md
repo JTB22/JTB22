@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **bloodjosh92@gmail.com**
 
-- ⚡ Fun fact **I first learned HTML / CSS / PHP on a hosting platform called Ning.com to host my customer myspace layout generator. Ning is no longer the same but boy was it great for learning.**
+- ⚡ Fun fact **I first learned HTML / CSS / PHP on a hosting platform called Ning.com to host my custom made myspace layout generator. Ning is no longer the same but boy was it great for learning.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
